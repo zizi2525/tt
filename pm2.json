@@ -1,0 +1,9 @@
+{
+    "apps": [
+      {
+        "name": "toonanime",
+        "script": "npm run start",
+
+      }
+    ]
+  }
